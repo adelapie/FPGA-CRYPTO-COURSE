@@ -1,2 +1,2 @@
 # FPGA-CRYPTO-COURSE
-Cryptography for FPGAs course (Radboud Universiteit Nijmegen - 2014/2016)
+Cryptographic Engineering - Cryptography for FPGAs course I teached at Radboud Universiteit Nijmegen - 2014/2016.
