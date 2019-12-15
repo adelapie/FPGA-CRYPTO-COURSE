@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="noekeon_pipe" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/noekeon - Behavioral C:|Users|vmr|Desktop|noekeon_pipelining|noekeon.vhd/OUT_TRANS_0 - output_trans - Behavioral</ClosedNode>
+         <ClosedNode>/tb_gamma - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_gamma.vhd</ClosedNode>
+         <ClosedNode>/tb_noekeon - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_noekeon.vhd</ClosedNode>
+         <ClosedNode>/tb_pi_1 - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_pi_1.vhd</ClosedNode>
+         <ClosedNode>/tb_pi_2 - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_pi_2.vhd</ClosedNode>
+         <ClosedNode>/tb_rc_gen - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_rc_gen.vhd</ClosedNode>
+         <ClosedNode>/tb_round_f - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_round_f.vhd</ClosedNode>
+         <ClosedNode>/tb_theta - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_theta.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>noekeon - Behavioral (C:/Users/vmr/Desktop/noekeon_inner_pipelining/noekeon_pipelining_inner_k_1/noekeon.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000185000000020000000000000000000000000200000064ffffffff000000810000000300000002000001850000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>noekeon - Behavioral (C:/Users/vmr/Desktop/noekeon_inner_pipelining/noekeon_pipelining_inner_k_1/noekeon.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000016f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000016f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000028c000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001c00000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>gamma.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Synthesize - XST</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000161000000010000000100000000000000000000000064ffffffff000000810000000000000001000001610000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Synthesize - XST</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/tb_gamma - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_gamma.vhd</ClosedNode>
+         <ClosedNode>/tb_noekeon - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_noekeon.vhd/uut - noekeon - Behavioral/OUT_TRANS_0 - output_trans - Behavioral</ClosedNode>
+         <ClosedNode>/tb_pi_1 - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_pi_1.vhd</ClosedNode>
+         <ClosedNode>/tb_pi_2 - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_pi_2.vhd</ClosedNode>
+         <ClosedNode>/tb_rc_gen - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_rc_gen.vhd</ClosedNode>
+         <ClosedNode>/tb_round_f - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_round_f.vhd/uut - round_f - Behavioral</ClosedNode>
+         <ClosedNode>/tb_theta - behavior C:|Users|vmr|Desktop|noekeon_pipelining|tb_theta.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>tb_noekeon - behavior (C:/Users/vmr/Desktop/noekeon_pipelining/tb_noekeon.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000199000000020000000000000000000000000200000064ffffffff000000810000000300000002000001990000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>tb_noekeon - behavior (C:/Users/vmr/Desktop/noekeon_pipelining/tb_noekeon.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000171000000010000000100000000000000000000000064ffffffff000000810000000000000001000001710000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ModelSim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000171000000010000000100000000000000000000000064ffffffff000000810000000000000001000001710000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ModelSim Simulator</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000040100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+</Project>

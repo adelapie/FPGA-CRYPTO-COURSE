@@ -1,0 +1,151 @@
+# Reading C:/Modeltech_pe_edu_10.4/tcl/vsim/pref.tcl
+# do {tb_noekeon.fdo}
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:01 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../theta.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity theta
+# -- Compiling architecture Behavioral of theta
+# End time: 16:33:02 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:02 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../pi_2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pi_2
+# -- Compiling architecture Behavioral of pi_2
+# End time: 16:33:03 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:03 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../pi_1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pi_1
+# -- Compiling architecture Behavioral of pi_1
+# End time: 16:33:04 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:04 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 reg_128.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity reg_128
+# -- Compiling architecture Behavioral of reg_128
+# End time: 16:33:05 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:06 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../gamma.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity gamma
+# -- Compiling architecture Behavioral of gamma
+# End time: 16:33:07 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:07 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../round_f.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity round_f
+# -- Compiling architecture Behavioral of round_f
+# End time: 16:33:08 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:08 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../output_trans.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity output_trans
+# -- Compiling architecture Behavioral of output_trans
+# End time: 16:33:09 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:09 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 rc_shr.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity rc_shr
+# -- Compiling architecture Behavioral of rc_shr
+# End time: 16:33:10 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:10 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../noekeon.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity noekeon
+# -- Compiling architecture Behavioral of noekeon
+# End time: 16:33:11 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim PE Student Edition vcom 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 16:33:11 on Mar 02,2015
+# vcom -reportprogress 300 -explicit -93 ../tb_noekeon.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_noekeon
+# -- Compiling architecture behavior of tb_noekeon
+# End time: 16:33:12 on Mar 02,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# //  ModelSim PE Student Edition 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui -do "do {tb_noekeon.fdo}" 
+# Start time: 16:33:12 on Mar 02,2015
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_noekeon(behavior)
+# Loading work.noekeon(behavioral)
+# Loading work.rc_shr(behavioral)
+# Loading work.round_f(behavioral)
+# Loading work.theta(behavioral)
+# Loading work.reg_128(behavioral)
+# Loading work.pi_1(behavioral)
+# Loading work.gamma(behavioral)
+# Loading work.pi_2(behavioral)
+# Loading work.output_trans(behavioral)
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: vmr  Hostname: VMR-PC  ProcessID: 2096
+# 
+#           Attempting to use alternate WLF file "./wlftsv4rh7".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlftsv4rh7
+# 
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# End time: 16:33:32 on Mar 02,2015, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 2
